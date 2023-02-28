@@ -72,7 +72,7 @@ main {
 }
 .image-container {
   position: relative; /* Thiết lập vị trí tương đối */
-  flex-basis: 30%; /* Phần trăm chiếm của phần ảnh */
+  flex-basis: 50%; /* Phần trăm chiếm của phần ảnh */
   overflow: hidden;
   border-radius: 10px;
   box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3); /* Tạo đổ bóng với độ dày là 10px và màu sắc đen */
