@@ -67,9 +67,12 @@ h2 {
   top: 90; /* đặt vị trí đầu tiên tại top */
 }
 main {
-  display: flex;
-  margin-top: 20px;
-}
+      display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 500px; /* chiều cao khung main */
+  }
 .image-container {
   position: relative; /* Thiết lập vị trí tương đối */
   flex-basis: 50%; /* Phần trăm chiếm của phần ảnh */
