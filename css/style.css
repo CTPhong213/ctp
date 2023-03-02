@@ -276,13 +276,6 @@ button:focus {
     --card-height: 400px;
   }
 }
-.support {
-  position: absolute;
-  right: 10px;
-  bottom: 10px;
-  padding: 10px;
-  display: flex;
-}
 
 @media screen and (max-width: 1024px) {
   #wrapper {
